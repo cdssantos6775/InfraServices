@@ -1,5 +1,5 @@
 # Infra Services workload
-1. Exchange
-1. Netbackup
-1. Active Directory
-1. My🌡️
+1. :construction_worker:Exchange
+1. :construction_worker:Netbackup
+1. :construction_worker:Active Directory
+1. :construction_worker:My
